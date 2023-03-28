@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LarryClemons
 - 👀 I’m interested in ... cybers security and web development
-- 🌱 I’m currently learning ... full-stack development
+- 🌱 I’m currently learning ... Penetration Testing
 - 💞️ I’m looking to collaborate on ... any related project
 - 📫 How to reach me ... on linked in.
 
